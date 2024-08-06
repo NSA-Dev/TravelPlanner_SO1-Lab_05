@@ -1,4 +1,4 @@
-# Solution for Lab 5: Memory management & structures
+# Solution for Lab 5: Memory management & structures (SO1-HAW Hamburg)
 
 ## Overview
 This lab exercise was designed to teach how to: 
