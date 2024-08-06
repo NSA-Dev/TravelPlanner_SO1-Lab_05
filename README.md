@@ -1,4 +1,5 @@
-# Solution for Lab 5: Memory management & structures (SO1-HAW Hamburg)
+#  SO-1 Lab 5 Solution
+Solution for Lab 5: Memory management & structures for Software Construction 1 course at HAW Hamburg
 
 ## Overview
 This lab exercise was designed to teach how to: 
